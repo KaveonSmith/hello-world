@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Hello, this is Kaveon Smith! 
+Hello. This is Kaveon Smith! 
